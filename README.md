@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://github.com/anshulkhattar/anshulkhattar/blob/master/WhatsApp%20Image%202020-07-10%20at%2017.13.33.jpeg">
-
-### Android Developer
-
-<a href = "https://drive.google.com/file/d/1Jf_6pJ6y3pK6NXjJnc5y9-e-DJUqQHT0/view?usp=sharing">Download Resume</a>
+<p align="center"><img src = "https://github.com/anshulkhattar/anshulkhattar/blob/master/my_logo.jpeg"></p>
+<p align="center"> <b>Hi there, I'm an Android App Developer, checkout my profile to see my work or download my resume from below link.</b> </p>
+<p align="center"><a href = "https://drive.google.com/file/d/1Jf_6pJ6y3pK6NXjJnc5y9-e-DJUqQHT0/view?usp=sharing">Download Resume</a></p>
